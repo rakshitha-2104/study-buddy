@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Student data and passwords (never upload this)
+backend/database/studybuddy.db
+
+# Secrets
+.env
+
+# Node
+node_modules/
+dist/
+
+# Editor and system files
+.vscode/
+.DS_Store
